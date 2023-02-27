@@ -22,7 +22,7 @@ async function run() {
             }
             ],
             // update the IPFS CID to be your image CID
-            image: "https://ipfs.io/ipfs/QmQ2wnwaFJ1w42UTywTWpM8RgiqrWwKFR6AMrpyiHPgi3p",
+            image: "https://ipfs.io/ipfs/Qmbs3y2myzSFKRFezA5y4PWomvvN1qw7dVsicZkgh8TNrx",
             description: "So much PLW3!"
         })
     };
